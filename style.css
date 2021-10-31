@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: lucida,sans-serif;
+    margin: 0;
+  }
+
+
+  body {
+    background-color: rgb(6, 105, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:rgb(250, 250, 250);
+    border: 5px solid rgb(14, 14, 13);
+}
+g
+
+
+  body
+    div.aboutme
+    
+    {
+
+      text-align: center;
+      font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  
+  div.resume {
+  
+      text-align: center;
+      font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  
+  div.coverletter {
+      text-align: center;
+      font-family:Georgia, 'Times New Roman', Times, serif
+  
+  }
+  
+  div.contacts {
+  
+      text-align: right;
+      font-family:Georgia, 'Times New Roman', Times, serif
+  }
+
+  header {
+    padding: 40px;
+    text-align: center;
+    background: #fff;
+    color: rgb(255, 255, 255)
+\  }
+  
+
+  main {
+    display: flex;
+    /* Forces elements to the next line if they don't fit */
+    flex-wrap: wrap;
+    margin-top: 2%;
+  }
+
+  .flex-social-icons {
+    display:flex;
+    justify-content:center;
+  }
+
+  .flex-social-icons a img {
+    display:flex;
+    justify-content:space-around;
+    width:20px;
+    padding:10px;
+  }
+ 

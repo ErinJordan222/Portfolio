@@ -14,29 +14,32 @@
 .aboutme {
 
       text-align: center;
-      font-family:Georgia, 'Times New Roman', Times, serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   } 
 
 .education {
   
       text-align: center;
-      font-family:Georgia, 'Times New Roman', Times, serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }
   
 .coverletter {
       text-align: center;
-      font-family:Georgia, 'Times New Roman', Times, serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+      /* font-family:Georgia, 'Times New Roman', Times, serif */
   
   }
 
 .skills {
       text-align: center;
-      font-family:Georgia, 'Times New Roman', Times, serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
   
 .contacts {
+      
       text-align: center;
-      font-family:Georgia, 'Times New Roman', Times, serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }
 
   header {

@@ -11,14 +11,13 @@ Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcam
 * <a href="https://erinjordan2790@gmail.com">Email</a> <br>
 * <a href="https://www.linkedin.com/in/erin-jordan-b04210223/">LinkedIn</a> <br>
 * <a href="https://github.com/ErinJordan222">GitHub</a> <br>
+## Coding
+* HTML
+* CSS
+## Description
 
-
-
+## Screenshot/Video
 ![Screenshot (39)](https://user-images.githubusercontent.com/92272866/141662767-9ca63be9-adcd-4b8e-ab5f-e13fba1011d4.png)
-
 ![Screenshot (40)](https://user-images.githubusercontent.com/92272866/141662770-9fa104e3-44c0-47b2-a3a0-11ef2f366d24.png)
-
-
-
 https://user-images.githubusercontent.com/92272866/141662744-0153b823-426a-417d-88af-b75a1dec710a.mp4
 

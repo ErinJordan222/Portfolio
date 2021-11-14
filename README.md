@@ -2,6 +2,7 @@
 
 ## Description
 Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcamp
+file:///C:/Users/erinj/playground_repo/DU-DEN-VIRT-FSF-PT-10-2021-U-C/Week-02/02-Homework/index.html
 https://github.com/ErinJordan222/Portfolio.git
 ## Table of Contents
 * [Contact](#Contact)

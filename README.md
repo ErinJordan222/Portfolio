@@ -15,6 +15,10 @@ Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcam
 * HTML
 * CSS
 ## Description
+* Use the navigation bar left corner to be directed to each section.
+* Press email in contacts to contact me.
+* Use the social icons bar to be directed seperatly to each social profile.
+* Enjoy!
 
 ## Screenshot/Video
 * ![Screenshot (39)](https://user-images.githubusercontent.com/92272866/141662767-9ca63be9-adcd-4b8e-ab5f-e13fba1011d4.png)

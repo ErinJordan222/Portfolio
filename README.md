@@ -2,7 +2,7 @@
 
 ## Description
 Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcamp
-https://github.com/ErinJordan222/Portfolio.git
+* https://github.com/ErinJordan222/Portfolio.git
 ## Table of Contents
 * [Contact](#Contact)
 * [Coding](#Coding)

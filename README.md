@@ -2,6 +2,7 @@
 
 ## Description
 Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcamp
+https://github.com/ErinJordan222/Portfolio.git
 ## Table of Contents
 * [Contact](#Contact)
 * [Coding](#Coding)
@@ -14,12 +15,11 @@ Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcam
 ## Coding
 * HTML
 * CSS
-## Description
+## Instructions
 * Use the navigation bar top left corner to be directed to each section.
 * Press email in contacts to contact me.
 * Use the social icons bar at the bottom center of the site to be directed seperatly to each social profile.
 * Enjoy!
-
 ## Screenshot/Video
 * ![Screenshot (39)](https://user-images.githubusercontent.com/92272866/141662767-9ca63be9-adcd-4b8e-ab5f-e13fba1011d4.png)
 * ![Screenshot (40)](https://user-images.githubusercontent.com/92272866/141662770-9fa104e3-44c0-47b2-a3a0-11ef2f366d24.png)

@@ -3,22 +3,24 @@
   }
 
   body {
-    background-color: rgb(25, 102, 89);
+    /* #5caadf; */
+    background-image: url(images/daisy.jpg);
     font-family: lucida,sans-serif;
-    text-align: center;
-    color:rgb(250, 250, 250);
-    border: 5px solid rgb(14, 14, 13);
+    text-align: left;
+    color:rgb(255, 255, 255);
+    border: 5px solid rgb(255, 255, 255);
     margin: 0;
 }
 
 .buttons {
   overflow: hidden;
 }
+
 .buttons a {
   margin: 0px;
   display: flex;
-  float: left;
-  color: #f2f2f2;
+  float: right;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -41,8 +43,10 @@ header {
 
 .aboutme {
 
+      columns: unset;
       text-align: center;
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      
   } 
 
 .education {
@@ -71,7 +75,7 @@ header {
 
 }
 .contacts {
-      
+      /* font-color: rgb(255, 255, 255); */
       text-align: center;
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }

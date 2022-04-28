@@ -15,15 +15,18 @@ Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcam
 ## Coding
 * HTML
 * CSS
+* Javascript
 ## Instructions
 * Use the navigation bar top left corner to be directed to each section.
+* Enjoy the slideshow of my projects I have completed in the Projects Section.
+* Underneath each image of projects is a link that will navigate you to my Github.
 * Press email in contacts to contact me.
 * Use the social icons bar at the bottom center of the site to be directed seperatly to each social profile.
 * Enjoy!
 ## Screenshot/Video
+* Updated video to preview slideshow of projects:
+* https://user-images.githubusercontent.com/92272866/165805872-0f99d919-b5ae-4a2b-b459-4a9bdfacd305.mp4
 * ![Screenshot (71)](https://user-images.githubusercontent.com/92272866/150690014-3c690707-ef10-4841-9e28-244209992da9.png)
 * ![Screenshot (72)](https://user-images.githubusercontent.com/92272866/150690020-bf8b610c-22c9-4a52-a2e2-f1f5721069a3.png)
 * ![Screenshot (73)](https://user-images.githubusercontent.com/92272866/150690025-99fd07f6-f556-4e00-915f-61f9786a13cb.png)
 * https://user-images.githubusercontent.com/92272866/150690165-2f11c327-a7ab-48ef-ac4f-52317eb4bb5c.mp4
-
-

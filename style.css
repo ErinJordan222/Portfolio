@@ -79,7 +79,14 @@ header {
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }
 
+  [data-component="slideshow"] .slide {
+    display: none;
+  }
 
+  [data-component="slideshow"] .slide.active {
+    display: block;
+  }
+  
   main {
     margin-top: 2%;
     font-size: 22px;

@@ -21,7 +21,9 @@ Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcam
 * Use the social icons bar at the bottom center of the site to be directed seperatly to each social profile.
 * Enjoy!
 ## Screenshot/Video
-* ![Screenshot (39)](https://user-images.githubusercontent.com/92272866/141662767-9ca63be9-adcd-4b8e-ab5f-e13fba1011d4.png)
-* ![Screenshot (40)](https://user-images.githubusercontent.com/92272866/141662770-9fa104e3-44c0-47b2-a3a0-11ef2f366d24.png)
-* https://user-images.githubusercontent.com/92272866/141662744-0153b823-426a-417d-88af-b75a1dec710a.mp4
+* ![Screenshot (71)](https://user-images.githubusercontent.com/92272866/150690014-3c690707-ef10-4841-9e28-244209992da9.png)
+* ![Screenshot (72)](https://user-images.githubusercontent.com/92272866/150690020-bf8b610c-22c9-4a52-a2e2-f1f5721069a3.png)
+* ![Screenshot (73)](https://user-images.githubusercontent.com/92272866/150690025-99fd07f6-f556-4e00-915f-61f9786a13cb.png)
+* https://user-images.githubusercontent.com/92272866/150690165-2f11c327-a7ab-48ef-ac4f-52317eb4bb5c.mp4
+
 

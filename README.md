@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description
-Erin Jordan's Web Portfolio for Week 2 Homework Denver Univirsity Coding Bootcamp
+Erin Jordan's Web Portfolio updated Projects section w/ Project 1 & 2 for Denver Univirsity Coding Bootcamp
 * https://erinjordan222.github.io/Portfolio/
 ## Table of Contents
 * [Contact](#Contact)

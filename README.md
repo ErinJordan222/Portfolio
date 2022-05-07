@@ -18,9 +18,10 @@ Erin Jordan's Web Portfolio updated Projects section w/ Project 1 & 2 for Denver
 * Javascript
 ## Instructions
 * Use the navigation bar top left corner to be directed to each section.
+* Click on the .pdf icon to view my resume.pdf.
 * Enjoy the slideshow of my projects I have completed in the Projects Section.
-* Underneath each image of projects is a link that will navigate you to my Github.
-* Press email in contacts to contact me.
+* Underneath each image of projects is a link that will navigate you to my repo.
+* Want to contact me? Press the email icon to email me or the phone to call me.
 * Use the social icons bar at the bottom center of the site to be directed seperatly to each social profile.
 * Enjoy!
 ## Screenshot/Video

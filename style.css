@@ -5,7 +5,7 @@
   body {
     /* #5caadf; */
     background-image: url(images/daisy.jpg);
-    font-family: lucida,sans-serif;
+    font-family: 'Sofia';
     text-align: left;
     color:rgb(255, 255, 255);
     border: 5px solid rgb(255, 255, 255);
@@ -45,7 +45,9 @@ header {
 
       columns: unset;
       text-align: center;
-      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+      
       
   } 
 
@@ -76,7 +78,7 @@ header {
 .contacts {
       /* font-color: rgb(255, 255, 255); */
       text-align: center;
-      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   [data-component="slideshow"] .slide {

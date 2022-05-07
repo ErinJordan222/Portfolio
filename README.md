@@ -28,5 +28,6 @@ Erin Jordan's Web Portfolio updated Projects section w/ Project 1 & 2 for Denver
 
 https://user-images.githubusercontent.com/92272866/167239013-b41aadce-5252-46f5-88ef-7d0b05b0639b.mp4
 
-![portfolio](https://user-images.githubusercontent.com/92272866/167238802-9314c9f3-ddd9-414b-a1f8-b7c3490f8f32.png)
-![portfolio3](https://user-images.githubusercontent.com/92272866/167238807-d36a01a0-bb69-4e18-bc50-893fd222928b.png)
+![portfolio4](https://user-images.githubusercontent.com/92272866/167240263-0f1aae85-35c4-4b9d-8573-115f0a9c0a07.png)
+![portfolio5](https://user-images.githubusercontent.com/92272866/167240267-f1f0b0fb-8ee6-4da2-a936-b1caa1a9f1ab.png)
+![portfolio6](https://user-images.githubusercontent.com/92272866/167240277-43fd847b-cd5c-44fb-841b-970bae2f04d5.png)

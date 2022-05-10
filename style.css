@@ -19,7 +19,7 @@
 .buttons a {
   margin: 0px;
   display: flex;
-  float: right;
+  float: left;
   color: #ffffff;
   text-align: center;
   padding: 14px 16px;

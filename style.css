@@ -5,9 +5,9 @@
   body {
     /* #5caadf; */
     background-image: url(images/daisy.jpg);
-    font-family: 'Sofia';
+    font-family: 'Lucida Console';
     text-align: left;
-    color:rgb(255, 255, 255);
+    color:rgb(229, 229, 229);
     border: 5px solid rgb(255, 255, 255);
     margin: 0;
 }

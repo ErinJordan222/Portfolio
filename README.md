@@ -22,7 +22,7 @@ Erin Jordan's Web Portfolio updated Projects section w/ Project 1 & 2 for Denver
 * Enjoy the slideshow of my projects I have completed in the Projects Section.
 * Underneath each image of projects is a link that will navigate you to my repo.
 * Want to contact me? Press the email icon to email me or the phone to call me.
-* Use the social icons bar at the bottom center of the site to be directed seperatly to each social profile.
+* Next to the Email and Cellphone icon you will find my Linkedin & Github links. 
 * Enjoy!
 ## Screenshot/Video
 

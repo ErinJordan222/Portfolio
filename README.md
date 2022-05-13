@@ -18,7 +18,8 @@ Erin Jordan's Web Portfolio updated Projects section w/ Project 1 & 2 for Denver
 * Javascript
 ## Instructions
 * Use the navigation bar top left corner to be directed to each section.
-* Click on the .pdf icon to view my resume.pdf.
+* In the Cover Letter section: Click on the .pdf icon to view my resume.pdf. 
+* It will redirect you to my public Googledocs Resume. 
 * Enjoy the slideshow of my projects I have completed in the Projects Section.
 * Underneath each image of projects is a link that will navigate you to my repo.
 * Want to contact me? Press the email icon to email me or the phone to call me.
